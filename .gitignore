@@ -1,0 +1,6 @@
+node_modules/
+dist/
+target/
+os-engine/scheduler
+os-engine/sync_demo
+.env
